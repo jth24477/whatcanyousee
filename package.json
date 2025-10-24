@@ -1,0 +1,27 @@
+{
+  "name": "project3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jth24477/project3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jth24477/project3/issues"
+  },
+  "homepage": "https://github.com/jth24477/project3#readme",
+  "description": "",
+  "dependencies": {
+    "three": "^0.180.0",
+    "vite": "^7.1.11"
+  }
+}
