@@ -30,6 +30,10 @@ p a:visited:hover {
 h3 a {
     text-decoration:none;
 }
+h3 a:link{
+    color: white;
+    text-decoration:none;
+}
 h3 a:hover {
     color:white;
     text-decoration:none;
